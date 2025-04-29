@@ -1,1 +1,2 @@
-# ruthalfarop
+# ruthalfarop Hola, mi nombre es Ruth Alfaro. Me interesa colaborar en proyectos de desarrollo web y aplicaciones móviles. Puedes contactarme al número 936576977 o al correo rosmeryalfaro16@gmail.com. En mi tiempo libre, disfruto ir al gimnasio para despejar la mente y mantenerme activa.
+Hello, my name is Ruth Alfaro. I am interested in collaborating on web development and mobile application projects. You can reach me at 936576977 or at rosmeryalfaro16@gmail.com. In my free time, I enjoy going to the gym to clear my mind and stay active.
